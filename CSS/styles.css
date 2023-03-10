@@ -1,0 +1,121 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 3.4rem;
+}
+.btn-outline-light {
+    color: #99FD02;
+    background-color: transparent;
+    background-image: none;
+    border-color: #99FD02;}
+
+.about-heading{
+    font-size: 4.4rem;
+    color: #99FD02;
+    font-family: 'Saira Condensed', sans-serif;
+
+}
+.navbar-container{
+    background-color: black;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.navbar{
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: right;
+    justify-content: right;
+    flex-direction: row;
+    color: #99FD02;
+}
+
+.intro{
+    background-image: url("../Images/2.png");
+    background-repeat: no-repeat;
+    margin-top: 0;
+    height: 770px;
+}
+
+.intro-text{
+    width: 50%;
+    color: #B7B3AB;
+    font-family: 'Saira Condensed', sans-serif;
+    text-align: center;
+    text-align: left;
+    margin-left: 45%;
+    padding-top: 15%;
+
+}
+
+.about-us{
+    background-image: url("../Images/4.png");
+    background-repeat: no-repeat;
+    height: 770px;
+    background-color: #343232;
+}
+
+.about-text{
+    width: 40%;
+    margin-left: 50%;
+    padding-top: 15%;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.gallery-text{
+    text-align: center;
+    padding: 15px;
+    font-size: 4.4rem;
+    font-family: 'Saira Condensed', sans-serif;
+    color: #B7B3AB;
+}
+
+.gallery{
+    width: 99%;
+}
+
+.image{
+    border-radius: 2%;
+}
+
+.color1{
+    background-color: #B4AB9F;
+    width: 5%;
+    padding: 50px 25px 0;
+    float: left;
+}
+
+.color2{
+    background-color: #86827E;
+    width: 5%;
+    padding: 50px 25px 0;
+    float: left;
+}
+
+.color3{
+    background-color: #684F39;
+    width: 5%;
+    padding: 50px 25px 0;
+    float: left;
+}
+
+.gallery-par{
+    color: black;
+    padding: 25px;
+    text-align: center;
+    background-color: #fff;
+    font-family: 'Saira Condensed', sans-serif ;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.git{
+    background-color: #343232;
+
+}
+.getintouch{
+    margin: 3% 10%;
+}
+
